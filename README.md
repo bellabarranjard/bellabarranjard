@@ -1,15 +1,15 @@
-<a href="https://github.com/bellabarranjard">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bellabarranjard&show_icons=true&count_private=true&hide_border=true&title_color=bf40bf&icon_color=bf40bf&text_color=FFFFFF&bg_color=7a297a" alt="Isabella Barranjard" />
-
-
-  <div>
+ <div>
 
 ![snake gif](https://github.com/bellabarranjard/bellabarranjard/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ##
+<a href="https://github.com/bellabarranjard">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bellabarranjard&show_icons=true&count_private=true&hide_border=true&title_color=bf40bf&icon_color=bf40bf&text_color=FFFFFF&bg_color=7a297a" alt="Isabella Barranjard" />
 
+  
+  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Isabella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isabella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
