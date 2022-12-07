@@ -8,9 +8,8 @@
 <a href="https://github.com/bellabarranjard">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bellabarranjard&show_icons=true&count_private=true&hide_border=true&title_color=bf40bf&icon_color=bf40bf&text_color=FFFFFF&bg_color=7a297a" alt="Isabella Barranjard" /> 
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellabarranjard&layout=compact&langs_count=7&theme=dracula"/>
 
-  
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Isabella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
