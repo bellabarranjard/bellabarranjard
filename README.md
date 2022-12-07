@@ -1,8 +1,3 @@
- <div>
-
-![snake gif](https://github.com/bellabarranjard/bellabarranjard/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ##
 <a href="https://github.com/bellabarranjard">
@@ -19,7 +14,12 @@
 
 ##
 
+<div>
 
+![snake gif](https://github.com/bellabarranjard/bellabarranjard/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+ 
 <div align="center">
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-marques-bb30a7251/)
